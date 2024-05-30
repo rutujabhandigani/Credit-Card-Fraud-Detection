@@ -2,7 +2,7 @@
 Identification of fraudulent credit card transactions - anomaly detection
 
 ### Introduction
-It is important that credit card companies are able to recognize fraudulent credit card transactions so that customers are not charged for items that they did not purchase.
+It is important for credit card companies to able to recognize fraudulent credit card transactions so that customers are not charged for items that they did not purchase.
 
 ### Dataset
 https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud <br>
