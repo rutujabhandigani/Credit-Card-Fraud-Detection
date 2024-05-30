@@ -14,6 +14,7 @@ It contains only numerical input variables which are the result of a PCA transfo
 ### Model
 
 1. Isolation Forest Algorithm: <br>
+
 This model excels at identifying anomalies by isolating data points based on their uniqueness, making it highly efficient and effective. Unlike traditional methods, Isolation Forests have low time complexity and memory requirements, building robust models with minimal computational resources. <br> 
 
 Isolation Forests work by randomly selecting features and split values to isolate anomalies with minimal conditions, while normal observations require more conditions for separation. An anomaly score is calculated based on the number of conditions needed to isolate an observation in the constructed isolation trees. <br> <br>
